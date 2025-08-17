@@ -23,8 +23,8 @@ The dashboard highlights regional trends, category composition, best-selling bra
 
 ## 📸 Preview
 
-![Dashboard Screenshot](Dashboard1.png)  
-![Dashboard Screenshot](Dashboard2.png)  
+![Dashboard Screenshot](Dashboard1.jpg)  
+![Dashboard Screenshot2](Dashboard2.jpg)  
 
 ---
 
@@ -32,3 +32,4 @@ The dashboard highlights regional trends, category composition, best-selling bra
 Project by **Kusan Chakraborty**  
 - Hashtags for LinkedIn:  
   `#Gameonix #DataAnalytics #PowerBI #Dashboard #GiftCardTrends`  
+
